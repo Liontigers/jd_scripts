@@ -7,7 +7,7 @@ exports.JDZZ_SHARECODES = [];
 exports.DDFACTORY_SHARECODES = [];
 exports.DREAM_FACTORY_SHARE_CODES = [];
 exports.PLANT_BEAN_SHARECODES = [];
-exports.FRUITSHARECODES = [];
+exports.FRUITSHARECODES = [ec47227fa5ed40e2bc268151c33e5d97,];
 exports.PETSHARECODES = [];
 exports.JDJOY_SHARECODES = [];
 
